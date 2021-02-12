@@ -1,0 +1,6 @@
+Author: Marcin Ciechan
+Index: 141504
+Avaible power: 1-2-3
+
+Polski:
+Generatory kongruencyjne - liniowo zapisywane liczby wedlug wzoru: Xn = (a*X*n-1 + b) % m, gdzie Xn jest n-tym elementem ciagu, zas a, b, m sa stalymi. Dostepne jest policzenie liczb dla generatora liniowego, kwadratowego i szesciennego.
